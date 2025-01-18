@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shoma0XCC)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shoma0XCC&theme=dark&hide_border=true&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **Shoma0XCC/Shoma0XCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
