@@ -1,5 +1,5 @@
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shoma0XCC)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoma0XCC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoma0XCC&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
