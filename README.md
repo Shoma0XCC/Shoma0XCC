@@ -1,5 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoma0XCC)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shoma0XCC&theme=dark&hide_border=true&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoma0XCC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Shoma0XCC/Shoma0XCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
