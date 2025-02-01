@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shamil Nigzy</h1>
 <h3 align="center">Turning coffee into Python code, one API at a time</h3>
 
-- 🔭 My project [TaskManager](https://github.com/Shoma0XCC/Simple_TaskManager)
+- 🔭 My project [TaskManager](https://github.com/Shoma0XCC/Simple_TaskManager), [Store](https://github.com/Shoma0XCC/Store)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoma0XCC&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
